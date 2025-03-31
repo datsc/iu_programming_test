@@ -1,0 +1,7 @@
+1 - git bash navigate
+2 - code_1.py
+3 - python code_1.py
+4 - touch code_func2.py
+5 - write a function that takes input (with input or argv) and can save to a csv file.
+6 - run that
+7 - write a test,py
