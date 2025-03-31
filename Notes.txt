@@ -4,4 +4,6 @@
 4 - touch code_func2.py
 5 - write a function that takes input (with input or argv) and can save to a csv file.
 6 - run that
-7 - write a test,py
+7 - make git repo
+8 - create simple dev
+9 - open git branch
